@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work. 
 Adding a line for rebasing example, then more changes from myfeature branch too.
+Update after stash
 ## Introduction
 This example is to show different parts of th Git repository and various commands using a web project.
 ## Purpose
