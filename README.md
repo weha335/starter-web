@@ -8,3 +8,6 @@ This example is to show different parts of th Git repository and various command
 As stated above, the main purpose is to provide simple examples for Git working
 ## Deployment
 This is a simple web project, deployment can be on any web server or even local file system.
+
+### Copyright
+Copyright abc
